@@ -1,3 +1,12 @@
+You can download this repository or file 'with rsa.py'
+
+Uncomment following two lines(lines 376 and 377) within file 'with rsa.py' for the first run of this application
+#connect1()
+#create_table1()
+
+
+Using the application
+
 Step 1 : Enter details for encode(embed) or decode(extract)
 Step 2 : Press 'Encode' for embedding and 'Decode' for extracting data.
 Step 3 : Press 'Clear' to clear the entry widgets. Error can occur when not cleared before operation.
