@@ -4,9 +4,9 @@ Hide short messages inside an image using a key.
 ### To run this app...   
 You can download this repository or file 'with rsa.py'
 
-If you've downloaded only 'with rsa.py' file, uncomment following two lines(lines 376 and 377) within file 'with rsa.py' for the first run of this application
-#connect1()
-#create_table1()
+If you've downloaded only 'with rsa.py' file, uncomment following two lines(lines 376 and 377) within file 'with rsa.py' for the first run of this application   
+#connect1()   
+#create_table1()   
 
 This will create database file 'mydb.db'. Then comment those lines again
 
